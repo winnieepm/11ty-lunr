@@ -1,0 +1,24 @@
+{
+  "name": "11ty-lunr",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "npx eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winnieepm/11ty-lunr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winnieepm/11ty-lunr/issues"
+  },
+  "homepage": "https://github.com/winnieepm/11ty-lunr#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
