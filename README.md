@@ -1,4 +1,4 @@
-# 11ty-lunr
+# 11ty-tutorial
 this is a test site where i'm following [this tutorial](https://learn-eleventy.pages.dev/) to setup my first 11ty site. if it works i'll integrate lunr to add a search function. once tested, i'll make a site for locally displaying a tweet dataset without distribution. 
 
 ## dev notes
