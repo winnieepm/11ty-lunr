@@ -3,7 +3,13 @@ this is a test site where i'm following [this tutorial](https://learn-eleventy.p
 
 ## dev notes
 ### 2025-03-13
-- for some reason the `async ()` in studio.js doesn't work. the file is parsed, but apparently the function isn't properly run.
+ 
+ ### 2025-03-10
+- i got the pagination to work. we have a feed, too.
+- pause structure dev and check styling basics. paused at lesson #12 of tutorial.    
+
+### 2025-03-09
+- for some reason the `async ()` in studio.js doesn't work. the file gets parsed, but apparently the function isn't prompted so it never runs. the site i want to retrieve data from is online.
 
 ### 2025-03-04
 - there's clever uses of 'aria' labels in the tutorial that can be added to improve accesibility and UX.
